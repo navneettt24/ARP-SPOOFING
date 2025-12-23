@@ -4,6 +4,8 @@
 ARP Spoofing (also known as ARP Poisoning) is a *Man-in-the-Middle (MITM)* attack technique used in local area networks (LAN).  
 In this attack, an attacker sends fake ARP replies to associate their MAC address with the IP address of another device (usually the gateway).
 
+![Image](https://github.com/user-attachments/assets/fde96f37-2103-41e5-870b-635165441565)
+
 ---
 
 ## 🧠 What is ARP?
